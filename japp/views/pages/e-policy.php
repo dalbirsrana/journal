@@ -1,0 +1,3 @@
+<h2>Ethical Policy</h2>
+
+<p>The journal Academic Vision follows strict review process. The research articles are sent to reputed academicians for review. Only original and unpublished work is allowed to be published. Principal, Post Graduate College, Sector 99, Chandigarh, the ex-officio Patron of the college has the right to remove any article on receipt of any complaint and is found to have followed any unethical practice, plegarised etc. at any stage of publication.</p>
