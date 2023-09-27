@@ -1,4 +1,4 @@
-# journal
+# Journal
 Journal website developed in CodeIgniter, User can submit their Article.. 
 
 Project Name: Website for Academic Purpose (Journal Publications)
